@@ -1,5 +1,5 @@
 {
-  "name": "lodash-contrib",
+  "name": "lodash-contrib-p",
   "description": "The brass buckles on lodash's utility belt",
   "version": "4.1200.1",
   "main": "dist/lodash-contrib.commonjs.js",
